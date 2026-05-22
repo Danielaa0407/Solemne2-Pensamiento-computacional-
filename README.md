@@ -5,7 +5,7 @@
 
 -[link](https://editor.p5js.org/dannyy/full/_woQAEvP2)
 
-foto 
+![texto alternativo imagen]()
 
 # Información del proyecto
 ## Nombre del proyecto 
@@ -139,7 +139,9 @@ random():
 Este proyecto toma como referencia el arte cinético para explorar la sensación de movimiento a través de elementos simples y repetitivos. La obra utiliza una grilla de círculos que cambia constantemente mediante variaciones de tamaño, color e interacción, generando una composición que nunca se percibe completamente igual. La intención no fue copiar una obra específica, sino trabajar la idea de movimiento visual y percepción óptica desde un sistema programado en p5.js.
 La interacción del usuario es una parte importante del proyecto, ya que el movimiento del mouse y el uso de teclas modifican continuamente el comportamiento visual de la composición. Esto hace que la obra deje de ser una imagen estática y se transforme en un sistema dinámico que responde en tiempo real. A través de reglas simples de programación, el proyecto busca demostrar cómo pequeños cambios pueden producir resultados visuales complejos y relacionados con los principios del arte cinético.
 
+# Diagrama de flujo 
 
+![diagrama](Nueva carpeta/Diagrama de flujo.png)
 
 
 
