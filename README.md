@@ -5,7 +5,7 @@
 
 -[link](https://editor.p5js.org/dannyy/full/_woQAEvP2)
 
-![texto alternativo imagen]()
+![texto alternativo imagen](imagenes/imagen.png)
 
 # Información del proyecto
 ## Nombre del proyecto 
@@ -141,7 +141,7 @@ La interacción del usuario es una parte importante del proyecto, ya que el movi
 
 # Diagrama de flujo 
 
-![diagrama](Nueva carpeta/Diagrama de flujo.png)
+![diagrama](imagenes/diagrama.png)
 
 
 
